@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+# virtualenv
+.env
+.flaskenv
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+# Jupyter Notebook
+.ipynb_checkpoints
+# MyPy
+.mypy_cache/
+# pytest
+.pytest_cache/
+# VS Code
+.vscode/
+# FastAPI / Uvicorn
+.uvicorn.pid
+# ChromaDB
+chroma_db/
+db/
+# Ollama
+ollama_models/
+# Operating System files
+.DS_Store
+Thumbs.db

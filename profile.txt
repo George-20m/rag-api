@@ -1,0 +1,11 @@
+My name is George.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a DevOps engineer.
+I'm especially interested in automation, infrastructure as a code and machine learning.
+
+I have experience with Java, Docker and python.
+I'm currently building projects on NextWork to grow my hands-on skills.
+
+For fun, I enjoy soccer.
+A fun fact about me is I once ran a marathon.
